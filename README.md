@@ -1,5 +1,5 @@
 # Vídeo juego Laberinto
-Este es el código de un video juego muy simple. 
+Este es el código de un video juego muy simple y para crealo he utilizado la libreria de Python Pygame.
 ![Captura de pantalla de 2022-11-09 13-45-41](https://user-images.githubusercontent.com/113713109/200834413-35888fab-a564-485d-b06a-4c0d76d9ab35.jpg)
 
 Se trata de un personaje que tiene que recorrer un laberinto y llegar hasta el final.
